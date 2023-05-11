@@ -61,3 +61,7 @@ Tableau Visualizations
 
 8) FDI Distribution
 
+
+![Dashboard 1](https://github.com/Sarjak369/G20_World_Bank_Data_Analysis/assets/56110199/57a61dbc-8672-4eea-95f3-26a93f039329)
+
+![Dashboard 2](https://github.com/Sarjak369/G20_World_Bank_Data_Analysis/assets/56110199/2353d7f9-ae3f-4447-88e8-1ba141a670be)
